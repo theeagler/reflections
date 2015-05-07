@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a git repository a .git file is created in the directory alongside the other files. You need to do it so git can start tracking projects.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is the middle-man between the repository and the working directory. It 
