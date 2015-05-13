@@ -9,3 +9,6 @@ You can use the staging area to compare all the state of the file you are workin
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches would help in the case of creating different or experimental versions of of files that are already established. Branches create different versions of essentially the same file.
+
+How do the diagrams help you visualize the branch structure?
+It shows how different branches can be made and changed at there own paces. Allowing you to to both create new features and continue development of the main project.
