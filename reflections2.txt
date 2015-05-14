@@ -14,4 +14,7 @@ How do the diagrams help you visualize the branch structure?
 It shows how different branches can be made and changed at there own paces. Allowing you to to both create new features and continue development of the main project.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-We added coins to the master branch. It adds all the commits together based on time they were committed so they are still searchable in the log. The diagram is represented this way because it shows how different branches come together to create a new master tip. 
+We added coins to the master branch. It adds all the commits together based on time they were committed so they are still searchable in the log. The diagram is represented this way because it shows how different branches come together to create a new master tip.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros would be speed, and efficiency in combining two large pieces of code. Always doing it manually would take more time and potentially leave room for more errors.
