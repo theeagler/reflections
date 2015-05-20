@@ -3,3 +3,7 @@ You would want to create a remote repository for different reasons. One being th
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 You might not want to interject new code from the remote onto your computer, there may be contributions that you aren't ready to apply to your current state on the computer.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Clones copy files and commits directly to your computer, this is great for working offline. Forks allow you to copy a repository onto your personal git page that allow you to independently explore someone elses work whilst giving them credit and not altering the original commits. Branching allows you to deviate from the master branch in order to experiment with new features.
+    
