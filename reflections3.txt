@@ -9,3 +9,6 @@ Clones copy files and commits directly to your computer, this is great for worki
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can compare changes made on the online repository with those made last on your local computer.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without Git and github, comparing and collaborating with others would be a tedious task of checking code line by line. I imagine multiple files would need to be created and cataloged to keep up with changes.
