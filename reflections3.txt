@@ -12,3 +12,6 @@ You can compare changes made on the online repository with those made last on yo
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Without Git and github, comparing and collaborating with others would be a tedious task of checking code line by line. I imagine multiple files would need to be created and cataloged to keep up with changes.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Creating branches allows you to explore and experiment with something that you have already functioning in master. Branches are important because they allow you the flexibility to tinker.
